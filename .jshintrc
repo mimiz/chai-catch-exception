@@ -1,0 +1,31 @@
+{
+    "curly": true,
+    "eqeqeq": true,
+    "immed": true,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "sub": true,
+    "undef": true,
+    "unused": true,
+    "boss": true,
+    "eqnull": true,
+    "smarttabs": true,
+    "node": true,
+    "browser": true,
+    "laxcomma": true,
+    "expr":true,
+    "globals": {
+        "describe": true,
+        "before": true,
+        "beforeEach": true,
+        "after": true,
+        "afterEach": true,
+        "it": true,
+        "expect": true,
+        "define": true,
+        "chai": true,
+        "assert": true
+
+    }
+}

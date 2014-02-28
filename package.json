@@ -1,0 +1,38 @@
+{
+    "name": "chai-catch-exception",
+    "version": "0.0.1",
+    "keywords": ["chai", "testing", "mocha"],
+    "description": "A ChaiJs plugin inspired of catch-exception for Java ",
+    "main": "chai-catch-exception.js",
+    "scripts": {
+        "test": "make test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/mimiz/chai-catch-exception.git"
+    },
+    "author": [{
+        "name": "Remi Goyard",
+        "url": "http://www.mimiz.fr"
+    }, {
+        "name": "Christian Alonso Chavez Ley"
+    }],
+    "license": "MIT",
+    "devDependencies": {
+        "grunt": "~0.4.2",
+        "grunt-cli": "~0.1",
+        "chai": "~1.6.1",
+        "mocha": "~1.11.0",
+        "grunt-mocha": "~0.4.1",
+        "grunt-contrib-jshint": "0.6.3",
+        "jshint-path-reporter": "~0.1",
+        "grunt-continue": "0.0.1",
+        "grunt-mocha-test": "~0.7.0",
+        "mocha-unfunk-reporter": "~0.3.7",
+        "grunt-bump": "0.0.11",
+        "requirejs": "~2.1.9"
+    },
+    "dependencies": {
+        "chai": "~1.2.0"
+    }
+}
