@@ -1,6 +1,6 @@
 {
     "name": "chai-catch-exception",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "chai-catch-exception.js",
     "ignore": [
         "Gruntfile.js",
