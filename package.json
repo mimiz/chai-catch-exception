@@ -1,6 +1,6 @@
 {
   "name": "chai-catch-exception",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "keywords": [
     "chai",
     "testing",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mimiz/chai-catch-exception.git"
+    "url": "https://github.com/mimiz/chai-catch-exception.git"
   },
   "author": [
     {
