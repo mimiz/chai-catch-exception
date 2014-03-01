@@ -6,7 +6,6 @@ lib-cov
 *.out
 *.pid
 *.gz
-
 node_modules/
 *._
 *.tmp
@@ -19,16 +18,13 @@ node_modules/
 *.swp
 *.vi
 *~
-
 .DS_Store
 .idea/
-
 pids
 logs
 results
-
 npm-debug.log
 node_modules
-
 /*.tgz
 /.idea
+bower_components
