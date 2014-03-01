@@ -1,12 +1,29 @@
 {
     "name": "chai-catch-exception",
     "version": "0.0.1",
-    "main": "index.js",
+    "main": "chai-catch-exception.js",
     "ignore": [
-        "**/.*",
         "Gruntfile.js",
         "package.json",
         "node_modules",
-        "test/"
-    ]
+        "node_modules/",
+        "bower_components",
+        "bower_components/"
+        "test/",
+        ".travis.yml",
+        ".jshintrc"
+    ],
+    "description": "A ChaiJS Plugin inspired by catch-exception for Java",
+    "license": "MIT",
+    "keywords": ["test", "assertion", "exception", "errors", "testing", "catch", "catch-exception", "assert", "chai"],
+    "homepage": "https://github.com/mimiz/chai-catch-exception",
+    "dependencies": {
+        "chai": "~1.6.1",
+        "mocha": "~1.11.0"
+    },
+    "devDepencies": {
+        "chai": ">=1.6.1",
+        "mocha": ">=1.11.0"
+    }
+
 }

@@ -5,7 +5,7 @@
  * This encapsulation was inspired by  https://github.com/gaslight data-time ChaiJs plugin
  * @see https://github.com/gaslight/chai-datetime
  *
- * @author Remi Goyard :  https://github.com/mimiz
+ * @author Remi Goyard :  http://www.mimiz.fr
  * @author Christian Alonso Chavez Ley : https://github.com/cachavezley
  *
  *

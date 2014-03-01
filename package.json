@@ -11,12 +11,16 @@
         "type": "git",
         "url": "git://github.com/mimiz/chai-catch-exception.git"
     },
-    "author": [{
-        "name": "Remi Goyard",
-        "url": "http://www.mimiz.fr"
-    }, {
-        "name": "Christian Alonso Chavez Ley"
-    }],
+    "author": [
+        {
+            "name": "Remi Goyard",
+            "url": "http://www.mimiz.fr"
+        },
+        {
+            "name": "Christian Alonso Chavez Ley",
+            "url": "https://github.com/cachavezley"
+        }
+    ],
     "license": "MIT",
     "devDependencies": {
         "grunt": "~0.4.2",
